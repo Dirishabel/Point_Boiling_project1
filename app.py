@@ -1,3 +1,4 @@
 #приветствие
 name = str(input())
-print('hi')
+print('hi '+ name)
+
